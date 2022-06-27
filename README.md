@@ -1,4 +1,4 @@
-# handwriten_aksara_recocknition
+# Handwriten_Aksara_Recognition
 
 Kelompok 2 : 
 1. Denny Lianto - C14190004
